@@ -1,4 +1,4 @@
-# ManuscriptData
+## ManuscriptData
 This repository contains data and code associated with published and in-prep manuscripts ordered by year, journal, and brief description.
 
 Where allowed, proofs are also provided.
